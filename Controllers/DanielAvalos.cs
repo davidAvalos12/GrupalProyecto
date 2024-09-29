@@ -2,6 +2,7 @@
 {
     public class DanielAvalos
     {
-        //SOY DANIEL AVALOS SAUCEDO
+        //SOY DANIEL AVALOS SAUCEDO :)
+        string nombre = "DANIEL AVALOS";
     }
 }

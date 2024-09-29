@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\TareaGrupal\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|c:\\users\\usuario\\source\\repos\\tareagrupal\\controllers\\danielavalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|solutionrelative:controllers\\danielavalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DanielAvalos.cs",
+              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TareaGrupal\\Controllers\\DanielAvalos.cs",
+              "RelativeDocumentMoniker": "Controllers\\DanielAvalos.cs",
+              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TareaGrupal\\Controllers\\DanielAvalos.cs",
+              "RelativeToolTip": "Controllers\\DanielAvalos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T04:15:44.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
