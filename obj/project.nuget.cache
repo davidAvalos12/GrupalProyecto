@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "ZXUfIZQkZbBwH9cpwLP5UAogY7dyI3cfpdg8qH4RybDS+j7Wm82rN35kJINgLDTPFrypBt6OsuJYBvdDKdQBUA==",
   "success": true,
   "projectFilePath": "D:\\tarea\\GrupalProyecto\\TareaGrupal.csproj",
+=======
+  "dgSpecHash": "OR2LMLsR8NGE69zxaPD0z2eGUQWTuXwujM7hikoZTYGZ1Bq0JkQZXGkM8tN1UlVw8KHhaYEvGDsfqWML79zIvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\TareaGrupal.csproj",
+>>>>>>> 391ae8f06b434e44a477a8f30db0048b32a464ed
   "expectedPackageFiles": [],
   "logs": []
 }
