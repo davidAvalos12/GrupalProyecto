@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TareaGrupal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b38465c90db32d66d118b8272bae52c3304f8fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("TareaGrupal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TareaGrupal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
