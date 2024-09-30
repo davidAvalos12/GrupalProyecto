@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\tarea06\\GrupalProyecto\\TareaGrupal.csproj": {}
+    "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\TareaGrupal.csproj": {}
   },
   "projects": {
-    "D:\\tarea06\\GrupalProyecto\\TareaGrupal.csproj": {
+    "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\TareaGrupal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\tarea06\\GrupalProyecto\\TareaGrupal.csproj",
+        "projectUniqueName": "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\TareaGrupal.csproj",
         "projectName": "TareaGrupal",
-        "projectPath": "D:\\tarea06\\GrupalProyecto\\TareaGrupal.csproj",
-        "packagesPath": "C:\\Users\\PC2022\\.nuget\\packages\\",
-        "outputPath": "D:\\tarea06\\GrupalProyecto\\obj\\",
+        "projectPath": "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\TareaGrupal.csproj",
+        "packagesPath": "C:\\Users\\PC2012\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\PC2012\\Desktop\\tarea06\\GrupalProyecto\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\PC2022\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\PC2012\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
