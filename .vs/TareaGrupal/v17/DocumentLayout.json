@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\tarea06\\GrupalProyecto\\",
+  "WorkspaceRootPath": "D:\\tarea\\GrupalProyecto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|d:\\tarea06\\grupalproyecto\\controllers\\vilchezalgalobos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|solutionrelative:controllers\\vilchezalgalobos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|d:\\tarea\\grupalproyecto\\controllers\\murgarubio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|solutionrelative:controllers\\murgarubio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|d:\\tarea06\\grupalproyecto\\controllers\\danielavalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|d:\\tarea\\grupalproyecto\\controllers\\danielavalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|solutionrelative:controllers\\danielavalos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|d:\\tarea\\grupalproyecto\\controllers\\vilchezalgalobos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948F6CCF-7F14-4E53-A78F-4BDFDA859C79}|TareaGrupal.csproj|solutionrelative:controllers\\vilchezalgalobos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,10 +27,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "murgarubio.cs",
+              "DocumentMoniker": "D:\\tarea\\GrupalProyecto\\Controllers\\murgarubio.cs",
+              "RelativeDocumentMoniker": "Controllers\\murgarubio.cs",
+              "ToolTip": "D:\\tarea\\GrupalProyecto\\Controllers\\murgarubio.cs",
+              "RelativeToolTip": "Controllers\\murgarubio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T15:28:01.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "vilchezAlgalobos.cs",
-              "DocumentMoniker": "D:\\tarea06\\GrupalProyecto\\Controllers\\vilchezAlgalobos.cs",
+              "DocumentMoniker": "D:\\tarea\\GrupalProyecto\\Controllers\\vilchezAlgalobos.cs",
               "RelativeDocumentMoniker": "Controllers\\vilchezAlgalobos.cs",
-              "ToolTip": "D:\\tarea06\\GrupalProyecto\\Controllers\\vilchezAlgalobos.cs",
+              "ToolTip": "D:\\tarea\\GrupalProyecto\\Controllers\\vilchezAlgalobos.cs",
               "RelativeToolTip": "Controllers\\vilchezAlgalobos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "DanielAvalos.cs",
-              "DocumentMoniker": "D:\\tarea06\\GrupalProyecto\\Controllers\\DanielAvalos.cs",
+              "DocumentMoniker": "D:\\tarea\\GrupalProyecto\\Controllers\\DanielAvalos.cs",
               "RelativeDocumentMoniker": "Controllers\\DanielAvalos.cs",
-              "ToolTip": "D:\\tarea06\\GrupalProyecto\\Controllers\\DanielAvalos.cs",
+              "ToolTip": "D:\\tarea\\GrupalProyecto\\Controllers\\DanielAvalos.cs",
               "RelativeToolTip": "Controllers\\DanielAvalos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
